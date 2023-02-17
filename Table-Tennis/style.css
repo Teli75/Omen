@@ -1,0 +1,43 @@
+header {
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: white ;
+    font-weight: normal;
+    font-size: 22px;
+    font-family: "Open sans";
+    padding: 20px 40px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+
+section > p {
+    display: block;
+    padding: 60px;
+     background-color: #3B4D73;
+}
+
+h1, h2 {
+    color: #e80f5e;
+    font-size: 25px;
+}
+
+header, nav, section, footer {
+    display: block;
+}
+
+img{
+    display: block;
+    padding: 60px;
+    width: 35%;
+    height: auto;
+    margin: auto;
+}
+
+
